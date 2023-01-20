@@ -1,0 +1,120 @@
+[
+    {
+        "originalPrice": "1,740,000",
+        "resalePrice": "1,700,000",
+        "picture": "https://i.ibb.co/94CyXrW/Toyota-Corolla-Altis-Sedan-Car-Price-In-Bangladesh.jpg",
+        "companyName": "Toyota",
+        "year": "2",
+        "location": "Chattogram",
+        "post": "20/10/2022",
+        "sellerName": "Masum"
+    },
+    {
+        "originalPrice": "1,280,000",
+        "resalePrice": "1,220,000",
+        "picture": "https://i.ibb.co/kQy79fX/Toyota-Camry-XSE-2019.png",
+        "companyName": "Toyota",
+        "year": "1",
+        "location": "Chattogram",
+        "post": "10/12/2022",
+        "sellerName": "Arif Hasan"
+    },
+    {   "originalPrice": "1,350,000",
+        "resalePrice": "1,250.000",
+        "picture": "https://i.ibb.co/25VZYHM/pexels-revac-film-s-photography-205337.jpg",
+        "companyName": "Toyota",
+        "year": "3",
+        "location": "Khulna",
+        "post": "20/12/2022",
+        "sellerName": "Aslam Kabir"
+    },
+    {
+        "originalPrice": "2,099,000",
+        "resalePrice": "2,090,000",
+        "picture": "https://i.ibb.co/6HwBWd2/Honda-Civic-LX-2020.jpg",
+        "companyName": "Honda",
+        "year": "1",
+        "location": "Dhaka",
+        "post": "22/09/2022",
+        "sellerName": "Anisul Haque Tuhin"
+    },
+    {
+        "originalPrice": "3,250,000",
+        "resalePrice": "3,200,000",
+        "picture": "https://i.ibb.co/yBDgMG8/Honda-Fit-EX-L-2020.jpg",
+        "companyName": "Honda",
+        "location": "Sylhet",
+        "year": "3",
+        "post": "22-12-2022",
+        "sellerName": "Hossain Ahmed"
+    },
+    {
+        "originalPrice": "7,400,000",
+        "resalePrice": "6,400,000",
+        "picture": "https://i.ibb.co/nDrGPXn/Screenshot-2022-11-24-181657.jpg",
+        "companyName": "Honda",
+        "location": "Rajshahi",
+        "year": "1",
+        "post": "10/11/2022",
+        "sellerName": "Md. Kabir Hossain"
+    },
+    {
+        "originalPrice": "3,350,000",
+        "resalePrice": "2,850,000",
+        "picture": "https://i.ibb.co/n6nJLkK/X-TRAIL-jpg-ximg-l-12-m-smart.jpg",
+        "companyName": "Nissan",
+        "location": "Sylhet",
+        "year": "3",
+        "post": "22/8/2022",
+        "sellerName": "Salekin Opu"
+    },
+    {
+        "originalPrice": "1,435,000",
+        "resalePrice": "1,355,000",
+        "picture": "https://i.ibb.co/xCjX5Ys/0220924-A00502904-W00100.jpg",
+        "companyName": "Nissan",
+        "location": "Dhaka",
+        "year": "1",
+        "post": "22-10-2022",
+        "sellerName": "Faisal Ahmed Rubel"
+    },
+    {
+        "originalPrice": "3,420,000",
+        "resalePrice": "2,520,000",
+        "picture": "https://i.ibb.co/s6yQCjM/gallery-used-car-one2car-nissan-sylphy-sv-sedan-thailand-0497165-Cg9-UBKXVto-D0-Am-Bcmm0-Ta-I.jpg",
+        "companyName": "Nissan",
+        "location": "Rajshahi",
+        "year": "3",
+        "post": "22-11-2022",
+        "sellerName": "Mosaddek Rohim"
+    }
+]
+=[
+    {
+        "companyName":"Toyota",
+        "images":"https://i.ibb.co/kQy79fX/Toyota-Camry-XSE-2019.png"
+    },
+    {
+        "companyName":"Honda",
+        "images":"https://i.ibb.co/Y85H0kp/Honda-Civic-V-CVT-Petrol-2019.jpg",
+    },
+    {
+        "companyName":"Nissan",
+        "images":"https://i.ibb.co/n6nJLkK/X-TRAIL-jpg-ximg-l-12-m-smart.jpg"
+    }
+]
+
+=[
+    {
+        "companyName":"Toyota",
+        "images":"https://i.ibb.co/kQy79fX/Toyota-Camry-XSE-2019.png"
+    },
+    {
+        "companyName":"Honda",
+        "images":"https://i.ibb.co/Y85H0kp/Honda-Civic-V-CVT-Petrol-2019.jpg"
+    },
+    {
+        "companyName":"Nissan",
+        "images":"https://i.ibb.co/n6nJLkK/X-TRAIL-jpg-ximg-l-12-m-smart.jpg"
+    }
+]
